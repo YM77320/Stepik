@@ -1,0 +1,3 @@
+New file via echo
+Add line via terminal
+
