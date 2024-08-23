@@ -1,3 +1,4 @@
 New file via echo
 Add line via terminal
 
+We trie to add new command	
