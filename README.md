@@ -1,4 +1,3 @@
 # Stepik
-frog  and other animals
+This Project for Test practic 
 
-and you check from local
